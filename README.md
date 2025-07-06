@@ -46,12 +46,14 @@ BookHub is a modern and responsive web application that helps users discover boo
 
 ## Install dependencies
 
-```npm install
+```
+npm install
 ```
 
 ## Run the app
 
-``` npm start
+```
+npm start
 ```
 
 ## 📁 Project Structure
