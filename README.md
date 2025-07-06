@@ -66,11 +66,7 @@ bookhub/
 │   │   └── BookCard.js      # Reusable component to display book cards
 │   ├── assets/
 │   │   └── illustration.png # Custom illustration/image for the UI
-│   ├── App.js               # Main App component
-│   ├── App.css              # Global styles (also uses Tailwind classes)
 │   └── index.js             # React entry point
-├── tailwind.config.js       # Tailwind CSS configuration
-├── postcss.config.js        # PostCSS config (used with Tailwind)
 ├── README.md                # Project overview file (this file)
 └── package.json             # Project metadata and dependencies
 ```
