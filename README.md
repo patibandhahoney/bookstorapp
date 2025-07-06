@@ -44,5 +44,32 @@ BookHub is a modern and responsive web application that helps users discover boo
 
 ---
 
+## Install dependencies
+
+```npm install
+```
+
+## Run the app
+
+``` npm start
+```
+
 ## 📁 Project Structure
+
+bookhub/
+├── public/
+│ ├── index.html
+│ └── favicon.ico
+├── src/
+│ ├── components/
+│ │ └── BookCard.js
+│ ├── assets/
+│ │ └── illustration.png
+│ ├── App.js
+│ ├── App.css
+│ └── index.js
+├── tailwind.config.js
+├── postcss.config.js
+├── README.md
+└── package.json
 
