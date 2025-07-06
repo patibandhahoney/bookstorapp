@@ -57,6 +57,7 @@ BookHub is a modern and responsive web application that helps users discover boo
 ## 📁 Project Structure
 
 bookhub/
+
 ├── public/
 │ ├── index.html
 │ └── favicon.ico
