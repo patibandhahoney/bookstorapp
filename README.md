@@ -12,7 +12,7 @@ BookHub is a modern and responsive web application that helps users discover boo
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e7e06cbc-abb6-4664-88e5-4475dffe248a" />
 
 ### 📘 Book Results
-![Results](./assets/screenshot-results.png)
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eaa777a7-1846-416e-a020-db23e3df6f16" />
 
 ---
 
